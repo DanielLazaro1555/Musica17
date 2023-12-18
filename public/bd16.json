@@ -108,5 +108,104 @@
         "album": "Viva La Vida or Death and All His Friends",
         "numero_de_pista": "10/10",
         "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274435_1.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Always in My Head",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "1/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_2.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Magic",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "2/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_3.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Ink",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "3/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_4.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "True Love",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "4/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_5.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Midnight",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "5/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_6.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Another's Arms",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "6/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_7.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Oceans",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "7/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_8.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "A Sky Full of Stars",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "8/9",
+        "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274435_9.flac",
+        "descripcion": "198274435",
+        "imagen": "Albums/198274435.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "O",
+        "artista": "Coldplay",
+        "album": "Ghost Stories",
+        "numero_de_pista": "9/9",
+        "Año": "2014"
     }
 ]
