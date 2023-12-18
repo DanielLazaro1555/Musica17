@@ -713,5 +713,148 @@
         "album": "Mylo Xyloto",
         "numero_de_pista": "14/14",
         "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274440_1.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Square One",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "1/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_2.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "What If",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "2/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_3.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "White Shadows",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "3/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_4.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Fix You",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "4/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_5.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Talk",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "5/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_6.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "X&Y",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "6/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_7.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Speed of Sound",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "7/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_8.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "A Message",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "8/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_9.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Low",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "9/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_10.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "The Hardest Part",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "10/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_11.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Swallowed in the Sea",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "11/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_12.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Twisted Logic",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "12/13",
+        "Año": "2005"
+    },
+    {
+        "archivo_musica": "Albums/198274440_13.flac",
+        "descripcion": "198274440",
+        "imagen": "Albums/198274440.jpg",
+        "genero": "Rock",
+        "titulo": "Til Kingdom Come",
+        "artista": "Coldplay",
+        "album": "X&Y",
+        "numero_de_pista": "13/13",
+        "Año": "2005"
     }
 ]
