@@ -438,5 +438,126 @@
         "album": "A Head Full of Dreams",
         "numero_de_pista": "11/11",
         "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274438_1.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Politik",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "1/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_2.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "In My Place",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "2/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_3.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "God Put a Smile upon Your Face",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "3/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_4.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "The Scientist",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "4/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_5.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Clocks",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "5/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_6.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Daylight",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "6/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_7.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Green Eyes",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "7/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_8.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Warning Sign",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "8/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_9.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "A Whisper",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "9/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_10.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "A Rush of Blood to the Head",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "10/11",
+        "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274438_11.flac",
+        "descripcion": "198274438",
+        "imagen": "Albums/198274438.jpg",
+        "genero": "Rock",
+        "titulo": "Amsterdam",
+        "artista": "Coldplay",
+        "album": "A Rush of Blood to the Head",
+        "numero_de_pista": "11/11",
+        "Año": "2002"
     }
 ]
