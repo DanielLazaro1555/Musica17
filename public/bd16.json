@@ -317,5 +317,126 @@
         "album": "Parachutes",
         "numero_de_pista": "10/10",
         "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274437_1.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "A Head Full of Dreams",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "1/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_2.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Birds",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "2/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_3.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Hymn for the Weekend",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "3/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_4.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Everglow",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "4/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_5.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Adventure of a Lifetime",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "5/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_6.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Fun (feat. Tove Lo)",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "6/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_7.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Kaleidoscope",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "7/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_8.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Army of One",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "8/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_9.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Amazing Day",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "9/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_10.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Colour Spectrum",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "10/11",
+        "Año": "2015"
+    },
+    {
+        "archivo_musica": "Albums/198274437_11.flac",
+        "descripcion": "198274437",
+        "imagen": "Albums/198274437.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Up&Up",
+        "artista": "Coldplay",
+        "album": "A Head Full of Dreams",
+        "numero_de_pista": "11/11",
+        "Año": "2015"
     }
 ]
