@@ -1,0 +1,112 @@
+[
+    {
+        "archivo_musica": "Albums/198274434_1.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Life in Technicolor",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "1/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_2.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Cemeteries of London",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "2/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_3.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Lost!",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "3/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_4.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "42",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "4/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_5.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Lovers in Japan",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "5/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_6.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Yes",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "6/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_7.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Viva La Vida",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "7/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_8.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Rock",
+        "titulo": "Violet Hill",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "8/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_9.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Strawberry Swing",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "9/10",
+        "Año": "2008"
+    },
+    {
+        "archivo_musica": "Albums/198274434_10.flac",
+        "descripcion": "198274434",
+        "imagen": "Albums/198274434.jpg",
+        "genero": "Pop",
+        "titulo": "Death and All His Friends",
+        "artista": "Coldplay",
+        "album": "Viva La Vida or Death and All His Friends",
+        "numero_de_pista": "10/10",
+        "Año": "2008"
+    }
+]
