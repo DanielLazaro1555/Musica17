@@ -559,5 +559,159 @@
         "album": "A Rush of Blood to the Head",
         "numero_de_pista": "11/11",
         "Año": "2002"
+    },
+    {
+        "archivo_musica": "Albums/198274439_1.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Mylo Xyloto",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "1/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_2.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Hurts Like Heaven",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "2/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_3.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Paradise",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "3/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_4.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Charlie Brown",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "4/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_5.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Us Against the World",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "5/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_6.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "M.M.I.X.",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "6/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_7.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Every Teardrop Is a Waterfall",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "7/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_8.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Major Minus",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "8/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_9.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "U.F.O.",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "9/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_10.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Rock",
+        "titulo": "Princess of China",
+        "artista": "Coldplay & Rihanna",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "10/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_11.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Up in Flames",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "11/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_12.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "A Hopeful Transmission",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "12/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_13.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Don't Let It Break Your Heart",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "13/14",
+        "Año": "2011"
+    },
+    {
+        "archivo_musica": "Albums/198274439_14.flac",
+        "descripcion": "198274439",
+        "imagen": "Albums/198274439.jpg",
+        "genero": "Pop",
+        "titulo": "Up with the Birds",
+        "artista": "Coldplay",
+        "album": "Mylo Xyloto",
+        "numero_de_pista": "14/14",
+        "Año": "2011"
     }
 ]
