@@ -207,5 +207,115 @@
         "album": "Ghost Stories",
         "numero_de_pista": "9/9",
         "Año": "2014"
+    },
+    {
+        "archivo_musica": "Albums/198274436_1.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Don't Panic",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "1/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_2.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Shiver",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "2/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_3.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Spies",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "3/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_4.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Sparks",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "4/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_5.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Yellow",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "5/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_6.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Trouble",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "6/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_7.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Parachutes",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "7/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_8.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "High Speed",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "8/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_9.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "We Never Change",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "9/10",
+        "Año": "2000"
+    },
+    {
+        "archivo_musica": "Albums/198274436_10.flac",
+        "descripcion": "198274436",
+        "imagen": "Albums/198274436.jpg",
+        "genero": "Rock",
+        "titulo": "Everything's Not Lost",
+        "artista": "Coldplay",
+        "album": "Parachutes",
+        "numero_de_pista": "10/10",
+        "Año": "2000"
     }
 ]
